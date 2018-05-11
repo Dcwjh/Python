@@ -3,4 +3,4 @@
 
 #### numpy属性
 
-![图1](tu1.png)
+![图1](/images/tu1.png)
